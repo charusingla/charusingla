@@ -9,7 +9,7 @@
 <h3 align="left">💻 CSE Student | 🚀 Full Stack Developer | 🧠 600+ LeetCode Problems Solved  <br>⚡ Building AI-powered web applications using MERN Stack  <br>🌱 Exploring DSA, React.js, Backend Development & AI Integration  <br>💡 Passionate about scalable applications and modern UI/UX  <br>📈 Consistently learning, building, and improving every day  <br>🎯 Aspiring Software Development Engineer<br>💻 Code • Build • Innovate • Contribute</h3>
 
 ###
-
+<br> <br />
 <h3 align="left">My Tech Stack</h3>
 
 ###
