@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h1 align="center">Hey! I am Charu Singla 👋</h1>
+<h1 align="left">Hey! I am Charu Singla 👋</h1>
 
 ###
 
@@ -8,11 +6,11 @@
 
 ###
 
-<h4 align="left">💻 CSE Student | 🚀 Full Stack Developer | 🧠 600+ LeetCode Problems Solved  <br>⚡ Building AI-powered web applications using MERN Stack  <br>🌱 Exploring DSA, React.js, Backend Development & AI Integration  <br>🎯 Aspiring Software Development Engineer</h4>
+<h3 align="left">💻 CSE Student | 🚀 Full Stack Developer | 🧠 600+ LeetCode Problems Solved  <br>⚡ Building AI-powered web applications using MERN Stack  <br>🌱 Exploring DSA, React.js, Backend Development & AI Integration  <br>💡 Passionate about scalable applications and modern UI/UX  <br>📈 Consistently learning, building, and improving every day  <br>🎯 Aspiring Software Development Engineer<br>💻 Code • Build • Innovate • Contribute</h3>
 
 ###
 
-<h4 align="left">💻 Code • Build • Innovate • Contribute</h4>
+<h3 align="left">My Tech Stack</h3>
 
 ###
 
@@ -44,7 +42,7 @@
 
 ###
 
-<h5 align="left">🔥 Daily Dev Activity</h5>
+<h3 align="left">🔥 Daily Dev Activity</h3>
 
 ###
 
@@ -54,7 +52,7 @@
 
 ###
 
-<h5 align="left">💻 “Code a little. Learn a lot. Grow every day.” ⚡</h5>
+<h3 align="left">💻 “Code a little. Learn a lot. Grow every day.” ⚡</h3>
 
 ###
 
@@ -66,7 +64,7 @@
 
 ###
 
-<h5 align="left">🤝 Let’s Connect & Collaborate  <br>📫 Open to internships, collaborations, and exciting tech opportunities  <br>💡 Always interested in building impactful projects and connecting with developers</h5>
+<h3 align="left">🤝 Let’s Connect & Collaborate  <br>📫 Open to internships, collaborations, and exciting tech opportunities  <br>💡 Always interested in building impactful projects and connecting with developers</h3>
 
 ###
 
